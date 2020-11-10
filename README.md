@@ -1,2 +1,5 @@
-# mern-stack-project
-In this project I am applying MERN stack
+# Link shortener
+## powered by MERN stack
+The purpose of this project is to master such technologies, as Mongo, Express, React, Node.
+
+
